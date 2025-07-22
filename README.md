@@ -30,8 +30,8 @@ The website includes:
 ├── index.html
 ├── style.css
 ├── assets/
-│   ├── coffee.jpg
-│   └── screenshot.png
+│   ├── coffee1.jpg
+│   └── screenshot.jpg
 └── README.md
 ```
 
