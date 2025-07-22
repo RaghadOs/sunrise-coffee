@@ -59,4 +59,4 @@ You can view the website live here:
 
 ## 📸 Website Preview
 
-![Preview](assets/screenshot.jpg)
+![Preview](assets/Screenshot.jpg)
