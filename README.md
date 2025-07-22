@@ -31,7 +31,7 @@ The website includes:
 ├── style.css
 ├── assets/
 │   ├── coffee1.jpg
-│   └── screenshot.jpg
+│   └── Screenshot.jpg
 └── README.md
 ```
 
